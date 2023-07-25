@@ -22,7 +22,7 @@
 
     --crt-stripe:   none;
     --crt-scanline: block;   /* ⛐ This effect is performance-intensive. */
-    --crt-flicker:  none;   /* ⚠ This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
+    --crt-flicker:  block;   /* ⚠ This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
 }
 
 .theme-dark {
